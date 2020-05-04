@@ -380,12 +380,13 @@ body {
     }
     .offer-item:hover .triangle {
         border-width: 0px 0 49px 49px;
-        left: 190px;
-        bottom: 50px;
+        left: 114px;
+        bottom: 48px;
     }
     .offer-item:hover .triangle-span {
         border-width: 0px 0 49px 49px;
-        left: -35px;
-        bottom: -35px;
+        left: -31px;
+        bottom: -34px;
     }
 }
+
