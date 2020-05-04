@@ -316,6 +316,16 @@ body {
     left: -22px;
     bottom: -25px;
 }
+/* TODO NOCH
+.screen-subscriptions__close {
+    --safe-area-inset-top: env(safe-area-inset-top);
+    --safe-area-inset-bottom: env(safe-area-inset-bottom);
+
+    position: absolute;
+    top: calc(0px + var(--safe-area-inset-top));
+    left: 12px;
+  } */
+
 @media screen and (min-width: 320px) and (max-width: 360px) { 
     body {
         font-size: 14px;
